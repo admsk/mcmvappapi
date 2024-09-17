@@ -1,0 +1,162 @@
+[
+  {
+    "nome": "Oliver Ricardo Ribeiro",
+    "cpf": "925.091.645-03",
+    "dataNascimento": "24/03/1980",
+    "renda": 2000.00,
+    "cota": "GERAL",
+    "cid": ""
+  },
+  {
+    "nome": "Lavínia Mariah Jennifer dos Santos",
+    "cpf": "843.831.525-97",
+    "dataNascimento": "5/10/2005",
+    "renda": 1045.00,
+    "cota": "GERAL",
+    "cid": ""
+  },
+  {
+    "nome": "Sabrina Luna Laís Cavalcanti",
+    "cpf": "945.553.979-91",
+    "dataNascimento": "26/11/1971",
+    "renda": 3000.00,
+    "cota": "DEFICIENTE FÍSICO",
+    "cid": "H90"
+  },
+  {
+    "nome": "Hugo Manuel Novaes",
+    "cpf": "239.964.398-49",
+    "dataNascimento": "19/10/1971",
+    "renda": 7850.00,
+    "cota": "GERAL",
+    "cid": ""
+  },
+  {
+    "nome": "Ana Brenda Esther Ramos",
+    "cpf": "840.216.806-56",
+    "dataNascimento": "23/08/1982",
+    "renda": 1790.99,
+    "cota": "DEFICIENTE FÍSICO",
+    "cid": "H90"
+  },
+  {
+    "nome": "Sérgio Vinicius Barros",
+    "cpf": "479.893.965-05",
+    "dataNascimento": "4/7/1956",
+    "renda": 5225.00,
+    "cota": "IDOSO",
+    "cid": ""
+  },
+  {
+    "nome": "Bruno Levi Dias",
+    "cpf": "053.246.187-80",
+    "dataNascimento": "13/09/1941",
+    "renda": 2500.00,
+    "cota": "IDOSO",
+    "cid": ""
+  },
+  {
+    "nome": "Tomás João Moreira",
+    "cpf": "358.414.793-00",
+    "dataNascimento": "26/10/1940",
+    "renda": 998.00,
+    "cota": "IDOSO",
+    "cid": ""
+  },
+  {
+    "nome": "Severino Igor Mário Barros",
+    "cpf": "958.617.790-40",
+    "dataNascimento": "21/02/1994",
+    "renda": 4000.00,
+    "cota": "DEFICIENTE FÍSICO",
+    "cid": "H90"
+  },
+  {
+    "nome": "Malu Emilly Pinto",
+    "cpf": "071.865.388-27",
+    "dataNascimento": "19/09/2002",
+    "renda": 39000.00,
+    "cota": "GERAL",
+    "cid": ""
+  },
+  {
+    "nome": "Giovanna Gabriela da Mota",
+    "cpf": "735.196.008-97",
+    "dataNascimento": "18/12/1995",
+    "renda": 1250.00,
+    "cota": "GERAL",
+    "cid": ""
+  },
+  {
+    "nome": "Eduardo Gael Cardoso",
+    "cpf": "737.055.718-93",
+    "dataNascimento": "11/3/1977",
+    "renda": 5225.99,
+    "cota": "DEFICIENTE FÍSICO",
+    "cid": ""
+  },
+  {
+    "nome": "Heitor Kauê Martins",
+    "cpf": "005.517.108-00",
+    "dataNascimento": "22/06/1986",
+    "renda": 3000.58,
+    "cota": "GERAL",
+    "cid": ""
+  },
+  {
+    "nome": "Rebeca Rita Moura",
+    "cpf": "325.541.788-01",
+    "dataNascimento": "26/08/1981",
+    "renda": 1250.98,
+    "cota": "DEFICIENTE FÍSICO",
+    "cid": ""
+  },
+  {
+    "nome": "Rodrigo Sebastião Araújo",
+    "cpf": "785.118.978-01",
+    "dataNascimento": "20/05/1958",
+    "renda": 6000.79,
+    "cota": "DEFICIENTE FÍSICO",
+    "cid": "H90"
+  },
+  {
+    "nome": "Leandro Gustavo Viana",
+    "cpf": "411.601.448-69",
+    "dataNascimento": "26/04/1945",
+    "renda": 10999.99,
+    "cota": "GERAL",
+    "cid": ""
+  },
+  {
+    "nome": "Letícia Rita Ferreira",
+    "cpf": "025.500.928-39",
+    "dataNascimento": "13/03/1956",
+    "renda": 3675.64,
+    "cota": "IDOSO",
+    "cid": ""
+  },
+  {
+    "nome": "Kaique Calebe Almeida",
+    "cpf": "128.021.648-48",
+    "dataNascimento": "27/04/1972",
+    "renda": 4488.48,
+    "cota": "GERAL",
+    "cid": ""
+  },
+  {
+    "nome": "Raul Emanuel Araújo",
+    "cpf": "531.380.488-03",
+    "dataNascimento": "16/12/1985",
+    "renda": 4567.45,
+    "cota": "IDOSO",
+    "cid": ""
+  },
+  {
+    "nome": "Allana Marina Mariane Alves",
+    "cpf": "887.969.268-21",
+    "dataNascimento": "9/11/1980",
+    "renda": 5454.55,
+    "cota": "GERAL",
+    "cid": ""
+  }
+]

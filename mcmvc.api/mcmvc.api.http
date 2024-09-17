@@ -1,0 +1,6 @@
+@mcmvc.api_HostAddress = http://localhost:5094
+
+GET {{mcmvc.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
