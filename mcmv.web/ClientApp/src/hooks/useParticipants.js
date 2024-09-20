@@ -5,7 +5,7 @@ export function useParticipants(scope = "IDOSO") {
     queryKey: ["participants", scope],
     queryFn: async () => {
       return await fetch(
-        `${procces.env.REACT_APP_BASEAPIURL}/Participantes/cota/${scope}`,
+        `${process.env.REACT_APP_BASEAPIURL}/Participantes/cota/${scope}`,
       ).then((r) => r.json());
     },
   });
@@ -15,7 +15,7 @@ export function useAllParticipants() {
   return useQuery({
     queryKey: ["participants"],
     queryFn: async () => {
-      return await fetch(`${procces.env.REACT_APP_BASEAPIURL}/Participantes/all`).then((r) =>
+      return await fetch(`${process.env.REACT_APP_BASEAPIURL}/Participantes/all`).then((r) =>
         r.json(),
       );
     },
