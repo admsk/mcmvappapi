@@ -27,7 +27,7 @@ export function useSorteio() {
     queryKey: ["sorteio"],
     queryFn: async () => {
       const data = await fetch(
-        `http://localhost:5094/Participantes/Sorteio`,
+        `${process.env.REACT_APP_BASEAPIURL}/Participantes/Sorteio`,
       ).then((r) => r.json());
 
       return data.reduce(
