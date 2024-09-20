@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/amendes/Documents/mollica/prodesp/mcmv.testes/mcmv.testes.csproj": {}
+    "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/mcmv.testes.csproj": {}
   },
   "projects": {
-    "/home/amendes/Documents/mollica/prodesp/mcmv.testes/mcmv.testes.csproj": {
+    "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/mcmv.testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/amendes/Documents/mollica/prodesp/mcmv.testes/mcmv.testes.csproj",
+        "projectUniqueName": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/mcmv.testes.csproj",
         "projectName": "mcmv.testes",
-        "projectPath": "/home/amendes/Documents/mollica/prodesp/mcmv.testes/mcmv.testes.csproj",
+        "projectPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/mcmv.testes.csproj",
         "packagesPath": "/home/amendes/.nuget/packages/",
-        "outputPath": "/home/amendes/Documents/mollica/prodesp/mcmv.testes/obj/",
+        "outputPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/amendes/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/amendes/Documents/mollica/prodesp/mcmv.web/mcmv.web.csproj": {
-                "projectPath": "/home/amendes/Documents/mollica/prodesp/mcmv.web/mcmv.web.csproj"
+              "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.web/mcmv.web.csproj": {
+                "projectPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.web/mcmv.web.csproj"
               },
-              "/home/amendes/Documents/mollica/prodesp/mcmvc.api/mcmvc.api.csproj": {
-                "projectPath": "/home/amendes/Documents/mollica/prodesp/mcmvc.api/mcmvc.api.csproj"
+              "/home/amendes/Documents/dev/Git/mcmvappapi/mcmvc.api/mcmvc.api.csproj": {
+                "projectPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmvc.api/mcmvc.api.csproj"
               }
             }
           }
@@ -47,7 +47,7 @@
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.6.0, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
@@ -82,14 +82,14 @@
         }
       }
     },
-    "/home/amendes/Documents/mollica/prodesp/mcmv.web/mcmv.web.csproj": {
+    "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.web/mcmv.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/amendes/Documents/mollica/prodesp/mcmv.web/mcmv.web.csproj",
+        "projectUniqueName": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.web/mcmv.web.csproj",
         "projectName": "mcmv.web",
-        "projectPath": "/home/amendes/Documents/mollica/prodesp/mcmv.web/mcmv.web.csproj",
+        "projectPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.web/mcmv.web.csproj",
         "packagesPath": "/home/amendes/.nuget/packages/",
-        "outputPath": "/home/amendes/Documents/mollica/prodesp/mcmv.web/obj/",
+        "outputPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/amendes/.nuget/NuGet/NuGet.Config"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "/home/amendes/Documents/mollica/prodesp/mcmvc.api/mcmvc.api.csproj": {
+    "/home/amendes/Documents/dev/Git/mcmvappapi/mcmvc.api/mcmvc.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/amendes/Documents/mollica/prodesp/mcmvc.api/mcmvc.api.csproj",
+        "projectUniqueName": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmvc.api/mcmvc.api.csproj",
         "projectName": "mcmvc.api",
-        "projectPath": "/home/amendes/Documents/mollica/prodesp/mcmvc.api/mcmvc.api.csproj",
+        "projectPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmvc.api/mcmvc.api.csproj",
         "packagesPath": "/home/amendes/.nuget/packages/",
-        "outputPath": "/home/amendes/Documents/mollica/prodesp/mcmvc.api/obj/",
+        "outputPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmvc.api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/amendes/.nuget/NuGet/NuGet.Config"
