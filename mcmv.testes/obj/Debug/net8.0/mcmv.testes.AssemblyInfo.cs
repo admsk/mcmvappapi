@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mcmv.testes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+462d5ae762e0585e6a6d1d1f0db7e83fc813d768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a52d7356235b174f7fdac28954c61901e60d1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("mcmv.testes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mcmv.testes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
