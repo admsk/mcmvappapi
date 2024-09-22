@@ -21,7 +21,7 @@ export function useAllParticipants() {
     },
   });
 }
-
+///Description 
 export function useSorteio() {
   return useQuery({
     queryKey: ["sorteio"],
