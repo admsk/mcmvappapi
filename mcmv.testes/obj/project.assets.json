@@ -2346,11 +2346,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/amendes/Documents/lab/React/mcmvappapi/mcmv.testes/mcmv.testes.csproj",
+      "projectUniqueName": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/mcmv.testes.csproj",
       "projectName": "mcmv.testes",
-      "projectPath": "/home/amendes/Documents/lab/React/mcmvappapi/mcmv.testes/mcmv.testes.csproj",
+      "projectPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/mcmv.testes.csproj",
       "packagesPath": "/home/amendes/.nuget/packages/",
-      "outputPath": "/home/amendes/Documents/lab/React/mcmvappapi/mcmv.testes/obj/",
+      "outputPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/amendes/.nuget/NuGet/NuGet.Config"
@@ -2365,11 +2365,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/amendes/Documents/lab/React/mcmvappapi/mcmv.web/mcmv.web.csproj": {
-              "projectPath": "/home/amendes/Documents/lab/React/mcmvappapi/mcmv.web/mcmv.web.csproj"
+            "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.web/mcmv.web.csproj": {
+              "projectPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.web/mcmv.web.csproj"
             },
-            "/home/amendes/Documents/lab/React/mcmvappapi/mcmvc.api/mcmvc.api.csproj": {
-              "projectPath": "/home/amendes/Documents/lab/React/mcmvappapi/mcmvc.api/mcmvc.api.csproj"
+            "/home/amendes/Documents/dev/Git/mcmvappapi/mcmvc.api/mcmvc.api.csproj": {
+              "projectPath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmvc.api/mcmvc.api.csproj"
             }
           }
         }

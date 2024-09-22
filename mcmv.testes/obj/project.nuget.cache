@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hSJUllOEStqlWUekvJ+TYPvLR6f5qMYQlYljfaRo2lPvpA281K3UMRkO6/ROm3TqWCBwX3jbb9QRnV2GvEjmXQ==",
+  "dgSpecHash": "6aU+w2UhYhRpKY8GB2TiDVhOQL8aorAOGhr9l5WJlKagGCWR55DHG7Ih5JtYYAEjxeWwKw9PzBKluQFSqbwGyA==",
   "success": true,
-  "projectFilePath": "/home/amendes/Documents/mollica/prodesp/mcmv.testes/mcmv.testes.csproj",
+  "projectFilePath": "/home/amendes/Documents/dev/Git/mcmvappapi/mcmv.testes/mcmv.testes.csproj",
   "expectedPackageFiles": [
     "/home/amendes/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/home/amendes/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",

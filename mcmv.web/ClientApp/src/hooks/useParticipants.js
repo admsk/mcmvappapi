@@ -5,7 +5,7 @@ export function useParticipants(scope = "IDOSO") {
     queryKey: ["participants", scope],
     queryFn: async () => {
       return await fetch(
-        `${process.env.REACT_APP_BASEAPIURL}/Participantes/cota/${scope}`,
+        `${process.env.REACT_APP_BASEAPIURL}Participantes/cota/${scope}`,
       ).then((r) => r.json());
     },
   });
@@ -15,7 +15,7 @@ export function useAllParticipants() {
   return useQuery({
     queryKey: ["participants"],
     queryFn: async () => {
-      return await fetch(`${process.env.REACT_APP_BASEAPIURL}/Participantes/all`).then((r) =>
+      return await fetch(`${process.env.REACT_APP_BASEAPIURL}articipantes/all`).then((r) =>
         r.json(),
       );
     },
@@ -27,7 +27,7 @@ export function useSorteio() {
     queryKey: ["sorteio"],
     queryFn: async () => {
       const data = await fetch(
-        `${process.env.REACT_APP_BASEAPIURL}/Participantes/Sorteio`,
+        `${process.env.REACT_APP_BASEAPIURL}Participantes/Sorteio`,
       ).then((r) => r.json());
 
       return data.reduce(
